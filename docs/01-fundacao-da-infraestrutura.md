@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Construir a infraestrutura base do HomeLab Enterprise.
+Construir a infraestrutura base do HomeLab.
 
 ## Tecnologias
 
