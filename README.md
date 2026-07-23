@@ -1,14 +1,21 @@
 # HomeLab
-Projeto pessoal focado em Infraestrutura, Docker, Linux e Observabilidade.
 
-Objetivo
+Projeto pessoal focado na construção de uma infraestrutura moderna baseada em Linux e Docker, simulando um ambiente corporativo.
 
-Construir um ambiente semelhante ao encontrado em empresas para aprofundar meus conhecimentos em:
+## Objetivos
 
-Linux
-Docker
-Reverse Proxy
-Monitoramento
-Observabilidade
-Segurança
-Automação
+- Aprimorar conhecimentos em Infraestrutura Linux
+- Docker e Docker Compose
+- Reverse Proxy
+- Monitoramento
+- Observabilidade
+- Segurança
+- Boas práticas de arquitetura
+
+## Tecnologias
+
+- Ubuntu Server
+- Docker
+- Docker Compose
+- Portainer
+- Nginx Proxy Manager
