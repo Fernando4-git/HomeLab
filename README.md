@@ -1,2 +1,2 @@
 # HomeLab
-Projeto pessoal homelab
+Projeto pessoal focado em Infraestrutura, Docker, Linux e Observabilidade.
